@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginRegisterMVP</string>
+    <string name="ftitle_login">LoginFragment</string>
+    <string name="ftitle_profile">ProfileFragment</string>
+    <string name="ftitle_register">RegisterFragment</string>
+    <string name="email_validation">Invalid Email</string>
+    <string name="isEmail_empty">Email must filled</string>
+    <string name="isName_empty">Name must filled</string>
+    <string name="isPassword_empty">Password must filled</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="loginText">Login</string>
+    <string name="registerText">Register</string>
+    <string name="logoutText">Logout</string>
+    <string name="nameText">Name</string>
+    <string name="maleText">Male</string>
+    <string name="femaleText">Female</string>
+</resources>
